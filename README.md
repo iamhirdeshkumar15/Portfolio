@@ -16,12 +16,12 @@ You can view the live portfolio here: [Your Netlify Link](https://hirdeshkumar15
 ### Skills
 Here are some of the key skills I bring to the table:
 
-## Data Analysis: Python, R, SQL
-## Data Visualization: Tableau, Power BI, Excel
-## Big Data Tools: Apache Hadoop, Apache Spark, Hive, NoSQL Databases
-## Machine Learning: Regression, Classification, KNN, Decision Trees, Naive Bayes, Clustering
-## DevOps: Git, GitHub, Puppet, Nagios, Jenkins, Ansible, Docker, Linux
-## Cloud Platforms: Azure, AWS, Google Cloud
+### Data Analysis: *Python, R, SQL*
+### Data Visualization: *Tableau, Power BI, Excel*
+### Big Data Tools: *Apache Hadoop, Apache Spark, Hive, NoSQL Databases*
+### Machine Learning: *Regression, Classification, KNN, Decision Trees, Naive Bayes, Clustering*
+### DevOps: *Git, GitHub, Puppet, Nagios, Jenkins, Ansible, Docker, Linux*
+### Cloud Platforms: *Azure, AWS, Google Cloud*
 
 # Projects
 Here are a few projects I've worked on:
@@ -45,4 +45,5 @@ Here are a few projects I've worked on:
 Feel free to reach out to me via:
 
 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/iamhirdeshkumar15/)
+
 Email: hirdeshkumaryadav15@gmail.com
