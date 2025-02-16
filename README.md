@@ -46,4 +46,4 @@ Feel free to reach out to me via:
 
 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/iamhirdeshkumar15/)
 
-Email: hirdeshkumaryadav15@gmail.com
+Email: hirdeshk976@gmail.com
