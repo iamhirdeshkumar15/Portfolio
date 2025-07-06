@@ -413,13 +413,13 @@ article .icon {
   font-size: larger;
 }
 
-.contact-icon {
+.contact-icon,
+.all-icon {                   /* same size for all icons */
+  width: 40px;
+  height: 40px;
   cursor: default;
 }
 
-.email-icon {
-  height: 2.5rem;
-}
 
 /* FOOTER SECTION */
 
